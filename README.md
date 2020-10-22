@@ -2,7 +2,7 @@
 
 ## URL
 
-<https://crepi-deli-front.netlify.app/>
+<https://crepi-deli-front.vercel.app/>
 
 ## Descrição:
 
