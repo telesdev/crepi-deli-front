@@ -1,0 +1,12 @@
+#aboutContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#about {
+    padding: 30px 0;
+}
+
+#imgAbout{
+    max-width: 100%;
+}

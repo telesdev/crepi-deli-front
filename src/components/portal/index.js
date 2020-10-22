@@ -1,0 +1,6 @@
+export { About } from './about/About'
+export { Banner } from './banner/Banner'
+export { Info } from './info/Info'
+export { Highlights } from './highlights/Highlights'
+export { Menu } from './menu/Menu'
+export { Services } from './services/Services'
